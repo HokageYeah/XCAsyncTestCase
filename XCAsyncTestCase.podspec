@@ -9,8 +9,7 @@ Pod::Spec.new do |s|
 
                    * Think: Why did you write this? What is the focus? What does it do?
                    * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
+                   * Try to keep it short, snappy and to the point.                   * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
   s.homepage     = "http://premosystems.github.io/XCAsyncTestCase/"
@@ -40,7 +39,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/fengyang0329/XCAsyncTestCase.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/HokageYeah/XCAsyncTestCase.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
